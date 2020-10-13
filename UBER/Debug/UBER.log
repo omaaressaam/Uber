@@ -1,0 +1,130 @@
+﻿  Gui.cpp
+  Main.cpp
+c:\users\dell\source\repos\uber\uber\main.cpp(867): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(874): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2165): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2167): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2167): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(2176): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2178): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2179): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2180): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2181): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(2221): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2225): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2229): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2252): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2256): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2275): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2277): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2277): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2282): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(2290): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2292): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2293): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2294): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2295): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(2301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(2333): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2337): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2341): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2346): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2351): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(2810): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dell\source\repos\uber\uber\main.cpp(2828): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dell\source\repos\uber\uber\main.cpp(2846): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dell\source\repos\uber\uber\main.cpp(2864): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dell\source\repos\uber\uber\main.cpp(2882): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dell\source\repos\uber\uber\main.cpp(4101): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4105): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4125): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4127): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4127): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(4140): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4142): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4143): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4144): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4145): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\users\dell\source\repos\uber\uber\main.cpp(4151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dell\source\repos\uber\uber\main.cpp(4183): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4187): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4191): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4196): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\uber\uber\main.cpp(4201): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  UBER.vcxproj -> C:\Users\Dell\source\repos\UBER\Debug\UBER.exe
